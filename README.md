@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -8,16 +9,10 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 구조 
+<img width="519" alt="스크린샷 2022-04-07 16 22 01" src="https://user-images.githubusercontent.com/90784937/162708125-4b0ab95e-b843-42a2-a827-a152737f612a.png">
 
 ### `yarn build`
 
