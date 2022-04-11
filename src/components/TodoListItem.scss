@@ -2,13 +2,13 @@
   padding: 1rem;
   display: flex;
   align-items: center;
-  border: 1px solid yellow;
+  // border: 1px solid yellow;
   &:nth-child(even) {
     background: #f8f9fa;
   }
 
   .checkbox {
-    border: 1px solid magenta;
+    // border: 1px solid magenta;
     cursor: pointer;
     flex: 1;
     display: flex;
@@ -17,13 +17,18 @@
       font-size: 1.5rem;
     }
     .text {
-      color: #adb5bd;
+      color: black;    
+      margin-left: 1rem;
+    }
+
+    &.checked {
       text-decoration: line-through;
+      color: black;
     }
   }
   .remove {
     display: flex;
-    border: 1px solid orange;
+    // border: 1px solid orange;
     align-items: center;
     font-size: 1.5rem;
     color: #ff6b6b;
